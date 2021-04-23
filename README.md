@@ -1,4 +1,5 @@
-[https://res.cloudinary.com/dkhiieq9p/image/upload/v1589318496/lbi-sunset_ltim3g.jpg]
+![Image of LBI Sunset]
+(https://res.cloudinary.com/dkhiieq9p/image/upload/v1589318496/lbi-sunset_ltim3g.jpg)
 
 ### Hi there 🎶
 
