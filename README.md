@@ -1,4 +1,4 @@
-![Image of LBI Sunset](https://res.cloudinary.com/dkhiieq9p/image/upload/v1589318496/lbi-sunset_ltim3g.jpg)
+![Image of LBI Sunset](https://res.cloudinary.com/dkhiieq9p/image/upload/v1619204686/Screen_Shot_2021-04-23_at_3.04.40_PM_w2zlip.png)
 
 ### Hi there 🎶
 
