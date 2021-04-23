@@ -7,5 +7,5 @@ View my portfolio here ☀️: [www.jakepressman.com]
 Here's my LinkedIn 📍: [https://www.linkedin.com/in/jakepressman/]
 
 Reach me via email here ✉️: [jpress7639@gmail.com]
-(mailto:jpress7639@gmail.com) 
+
 
