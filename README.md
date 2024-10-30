@@ -1,8 +1,14 @@
-![Image of LBI Sunset](https://res.cloudinary.com/dkhiieq9p/image/upload/v1619204733/Screen_Shot_2021-04-23_at_3.05.28_PM_osqzap.png)
+![LinkedIn Header](https://media.licdn.com/dms/image/v2/D4E16AQEv4YMKPYfgyA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1696867048170?e=1735776000&v=beta&t=-5yB6aACM9DaLiafK-Ll891aviQeflIvtNTf0_8amSM)
 
 ### Nice to meet you, I'm Jake 🎶
 
-Software engineer with a proven ability to be an effective communicator as a member of a team or as a team leader. While directing a team of 4 developers, I outlined daily objectives and tasks suited to each members’ strengths to ensure their growth and success. I worked closely with clients to understand their needs in order to deliver a quality product that satisfied all desired criteria. My passion for coding also drove me to complete a 1,000+ hour coding bootcamp focused on HTML, CSS, SASS, Javascript and React to strengthen my overall coding acumen. I am motivated to grow and nurture these passions while working within a collaborative, talented development team focused on developing high-quality solutions to meaningful problems.
+Currently a part of the Marketing and Communications Team at TransPerfect as a Senior Web Developer. Day-to-day tasks involve checking daily web requests, creating new projects through HTML/CSS/JS and using Content Management Systems such as Drupal/Wordpress.
+
+Languages: HTML, JS, CSS, PHP, Ruby
+Frameworks:  SASS/SCSS, Node.js,  Express.js
+Libraries: React, jQuery
+Databases: MongoDB, SQL
+CICD: GIT, Heroku
 
 View my portfolio here ☀️: [www.jakepressman.com] 
 
