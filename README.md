@@ -1,16 +1,19 @@
 ### Nice to meet you, I'm Jake 🎶
 
-I create outside-the-box and dynamic interfaces to a team needing to entice their users to continue using their services so they can generate ongoing clientele and customers and focus on innovating their industry as the frontrunners. Currently a part of the Marketing and Communications Team at TransPerfect as a Senior Web Developer. Day-to-day tasks involve checking daily web requests, creating new projects through HTML/CSS/JS and using Content Management Systems such as Drupal/Wordpress.
+I'm a Senior Web Developer with experience building and maintaining web experiences for global teams. Most recently, I was part of the Marketing and Communications team at TransPerfect, where I led web development projects end-to-end, from scoping requests to delivering clean, responsive builds using HTML, CSS, JavaScript, and CMS platforms like Drupal and WordPress.
 
-Languages: HTML, JS, CSS, PHP, Ruby
+I bring a full-stack mindset to front-end-focused work, with hands-on experience across:
 
-Frameworks: SASS/SCSS, Node.js,  Express.js
+🛠 Languages: HTML, CSS, JavaScript, PHP, Ruby
 
-Libraries: React, jQuery
+⚙️ Frameworks & Libraries: Typescript, React, Node.js, Express.js, jQuery, SASS/SCSS
 
-Databases: MongoDB, SQL
+🗄 Databases: MongoDB, SQL
 
-CICD: GIT, Heroku
+🔁 CI/CD: Git, Heroku
+
+
+I'm currently open to new opportunities where I can contribute to a strong engineering or digital team. If you're looking for a developer who's comfortable owning projects from brief to launch, let's connect.
 
 View my portfolio here ☀️: [www.jakepressman.com] 
 
