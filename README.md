@@ -4,7 +4,7 @@ I'm a Senior Web Developer with experience building and maintaining web experien
 
 I bring a full-stack mindset to front-end-focused work, with hands-on experience across:
 
-🛠 Languages: HTML, CSS, JavaScript, PHP, Ruby
+🛠 Languages: HTML, CSS, JavaScript, PHP, Ruby, Python
 
 ⚙️ Frameworks & Libraries: Typescript, React, Node.js, Express.js, jQuery, SASS/SCSS
 
