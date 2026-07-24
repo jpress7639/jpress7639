@@ -1,6 +1,6 @@
 ### Nice to meet you, I'm Jake 🎶
 
-I'm a Senior Web Developer with experience building and maintaining web experiences for global teams. Most recently, I was part of the Marketing and Communications team at TransPerfect, where I led web development projects end-to-end, from scoping requests to delivering clean, responsive builds using HTML, CSS, JavaScript, and CMS platforms like Drupal and WordPress.
+I'm a Fullstack Engineer / Web Developer with experience building and maintaining web experiences for global teams. Most recently, I was part of the Marketing and Communications team at TransPerfect, where I led web development projects end-to-end, from scoping requests to delivering clean, responsive builds using HTML, CSS, JavaScript, and CMS platforms like Drupal and WordPress.
 
 I bring a full-stack mindset to front-end-focused work, with hands-on experience across:
 
